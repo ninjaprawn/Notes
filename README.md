@@ -11,4 +11,4 @@ How to use:
 ```
 #import <Notes/Notes.h>
 ```
-- Use the code from Example.xm, replacing the items that need replacing (body,title,etc)
+- Copy the function from example.xm. Create your own arguements to customize the variables on the go.
