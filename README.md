@@ -1,3 +1,5 @@
+**Archived - No guarantee this code still works for current iOS versions. It was written for ~iOS7/8.**
+
 Notes
 ==========
 
